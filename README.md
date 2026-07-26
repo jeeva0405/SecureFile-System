@@ -102,8 +102,8 @@ _FileEventHandler (watchdog)       detect_access thread
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/SubashSK777/SecureDoc.git
-cd SecureDoc
+git clone https://github.com/jeeva0405/SecureFile-System.git
+cd SecureFile System
 ```
 
 **2. Install dependencies**

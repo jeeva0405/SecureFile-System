@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=SecureFile System&fontSize=72&animation=fadeIn&fontColor=e94560&fontAlignY=38&desc=Tamper-Evident%20File%20Audit%20System&descAlignY=54&descAlign=50&descColor=a8dadc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=SecureFile-System&fontSize=72&animation=fadeIn&fontColor=e94560&fontAlignY=38&desc=Tamper-Evident%20File%20Audit%20System&descAlignY=54&descAlign=50&descColor=a8dadc" width="100%" />
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Watchdog](https://img.shields.io/badge/Watchdog-File%20Monitor-green?style=for-the-badge&logo=files&logoColor=white)](https://github.com/gorakhargosh/watchdog)
